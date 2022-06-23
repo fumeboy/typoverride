@@ -1,4 +1,4 @@
-# 通过修改底层类型信息来注入 struct tag `json`
+# 通过修改类型信息来注入 struct tag `json`
 
 具体逻辑详见 `./override.go`
 
